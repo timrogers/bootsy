@@ -466,6 +466,7 @@
                 },
                 "span": 1,
                 "div": 1,
+                "iframe": 1, // permit iFrames - we filter these in the backend
                 // to allow save and edit files with code tag hacks
                 "code": 1,
                 "pre": 1
